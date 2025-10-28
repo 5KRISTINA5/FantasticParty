@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:rgb(111, 253, 255) ;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    border: 1px solid rgb(111, 253, 255);
+    color: blue; 
+}
+
+footer p{
+   margin: 10px;
+   border: 1px solid rgb(177, 172, 172);
+}
+
+nav a {
+    margin: 60px;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+}
+
+ .ragil {
+    background-color: white;
+    color: royalblue;
+}
+
